@@ -11,20 +11,17 @@ The goal of this project is to showcase **hands-on SQL fundamentals**, structure
 ## 🗂️ Project Structure
 employee-insights-sql/
 │
-├── 🏗️ Setup/
-│   ├── Create-db.sql              # Database initialization
-│   ├── Create-table.sql           # Schema definition
-│   └── INSERTData.sql             # Mock data for testing
+├── Create-db.sql
+├── Create-table.sql
+├── INSERTData.sql
 │
-├── 🔍 Analysis/
-│   ├── Employee Overview.sql      # Filtering & basic profiling
-│   ├── Salary Analysis.sql        # Compensation & band insights
-│   └── Business Questions.sql     # Scenario-based reporting
+├── analysis/
+│ ├── Employee Overview & Filtering.sql
+│ ├── Salary Analysis.sql
+│ └── Real-World Business Questions.sql
 │
-└── 🛠️ Maintenance/
-    └── Update_Maintenance.sql     # Data integrity & lifecycle management
-
----
+└── maintenance/
+└── Update & Maintenance Scenarios.sql
 
 ## 🛠️ Database Schema
 
