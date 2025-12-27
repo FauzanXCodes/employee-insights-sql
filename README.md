@@ -20,8 +20,8 @@ employee-insights-sql/
 │ ├── Salary Analysis.sql
 │ └── Real-World Business Questions.sql
 │
-├── maintenance/
- └── Update & Maintenance Scenarios.sql
+└── maintenance/
+└── Update & Maintenance Scenarios.sql
 
  
 ---
