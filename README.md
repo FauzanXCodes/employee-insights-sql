@@ -23,6 +23,7 @@ employee-insights-sql/
 └── maintenance/
 └── Update & Maintenance Scenarios.sql
 
+
 ## 🛠️ Database Schema
 
 ### Table: `employees`
