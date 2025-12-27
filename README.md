@@ -9,6 +9,8 @@ The goal of this project is to showcase **hands-on SQL fundamentals**, structure
 ---
 
 ## 🗂️ Project Structure
+
+
 employee-insights-sql/
 │
 ├── Create-db.sql
